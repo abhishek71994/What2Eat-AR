@@ -12,9 +12,7 @@ const TouchGestures = require("TouchGestures");
 var planeTracker = Scene.root.find("planeTracker0");
 var stroke = Scene.root.find("emitter0");
 
-TouchGestures.onTap(planeTracker).subscribe(function(gesture) {
-  stroke.lifespan = 9000;
-  stroke.birthrate = 20;
+TouchGestures.onTap().subscribe(function(gesture) {
   planeTracker.trackPoint(gesture.location);
 });
 
