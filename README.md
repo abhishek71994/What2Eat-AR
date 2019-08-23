@@ -19,8 +19,8 @@ Sep 20 - Submission <br/>
 ### Requirements:
 
 * Smoothen the drawing experience
-* Bring up the drawing tools
+* Bring up the drawing tools (draw, highlight and erase)
 * Setup a background
 * Be able to draw on the background
 * Collaboratively draw
-* Download the collab
+* Download the collab (png and/or pdf)
