@@ -1,1 +1,1 @@
-{"include":["*.js"],"compilerOptions":{"baseUrl":"/Applications/Spark AR Studio.app/Contents/Resources/skylight-typedefs","allowJs":true,"checkJs":true}}
+{"include":["*.js"],"compilerOptions":{"baseUrl":"/private/var/folders/8q/09ldp3hx7g1gsg2vj171fvdc0000gp/T/skylight-typedefs","allowJs":true,"checkJs":true,"outDir":"/private/var/folders/8q/09ldp3hx7g1gsg2vj171fvdc0000gp/T/skylight-typedefs/out-dir"}}

@@ -1,26 +1,42 @@
-## Collab AR
+## What To Eat AR
 
-Central repo for AR stuff
+#To-Do:
 
-### Idea:
-Document this project so we can blog about it.
+Start
 
-### Caution:
-Please do not remove patches from patch editor. <br/>
-It will give an error in SparkAR console.
+1. user launch app ✅
+2. user tap button to spin ✅
+3. Have a blank state from the get go
 
-### Timeline:
-Aug 30 - CollabAR 1.0 Completion <br/>
-Sep 6 - CollabAR 2.0 Completion <br/>
-Sep 12 - Video Prep + Effect Icon + Effect Name <br/>
-?? - Submission to SparkAR Hub (<7 working days) <br/>
-Sep 20 - Submission <br/>
+Spin
 
-### Requirements:
+4. spinning animation
+5. spinning sound ✅
+6. spin time = 3 sec
+7. button is disabled when animation is running
+8. Shake head to spin
 
-* Smoothen the drawing experience
-* Bring up the drawing tools (draw, highlight and erase)
-* Setup a background
-* Be able to draw on the background
-* Collaboratively draw
-* Download the collab (png and/or pdf)
+End
+
+9. 3 unique results all the time.
+10. Shake head — Spin again (drum roll)
+11. Nod — Confetti animation and Hurray sound (flashing lights)
+12. result animation + result sound
+13. Open mouth —> Raining food (Extra feature… SWAG)
+
+#What we need to submit:
+
+https://devpost.com/submit-to/8236-2019-developer-circles-from-facebook-community-challenge/start/submissions/new
+
+- Onboarding
+- Demo Video: 2 min, Youtube, step-by-step visual demo, explain how the Facebook products used enhances the experience of your solution
+- Project Name:
+- Elevator Pitch (200 char):
+- Built with:
+- Images & screenshot of app
+- Submit software
+- Effect Icon
+- Licensing of assets (animation, sound effect)
+
+#Deadline
+6AM MYT Sep 21
