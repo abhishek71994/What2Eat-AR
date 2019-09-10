@@ -2,13 +2,13 @@
 
 #To-Do:
 
-    Start
+Start
 
 1. user launch app ✅
 2. user tap button to spin ✅
 3. Have a blank state from the get go
 
-   Spin
+Spin
 
 4. spinning animation
 5. spinning sound ✅
@@ -16,7 +16,7 @@
 7. button is disabled when animation is running
 8. Shake head to spin
 
-   End
+End
 
 9. 3 unique results all the time.
 10. Shake head — Spin again (drum roll)
@@ -25,6 +25,7 @@
 13. Open mouth —> Raining food (Extra feature… SWAG)
 
 #What we need to submit:
+
 https://devpost.com/submit-to/8236-2019-developer-circles-from-facebook-community-challenge/start/submissions/new
 
 - Onboarding
